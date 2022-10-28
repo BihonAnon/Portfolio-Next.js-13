@@ -5,7 +5,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Next.js</title>
+        <title>Byron | Home</title>
       </head>
       <body>
         <Navbar />

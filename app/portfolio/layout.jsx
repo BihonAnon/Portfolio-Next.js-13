@@ -1,9 +1,9 @@
 import Navbar from "../Navbar";
-export default function ResumeLayout({ children }) {
+export default function PortfolioLayout({ children }) {
     return (
       <html lang="en">
         <head>
-          <title>Byron | Resume</title>
+          <title>Byron | Portfolio</title>
         </head>
         <body>
           <Navbar />
